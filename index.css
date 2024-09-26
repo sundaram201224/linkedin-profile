@@ -1,0 +1,30 @@
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-brand img {
+    width: 35px;
+}
+
+.nav-icon {
+    font-size: 1.3rem;
+}
+
+.me-icon img {
+    width: 35px;
+    border-radius: 50%;
+}
+
+.contact-card {
+    background-color: #f8f9fa;
+    border: none;
+}
+
+.footer-section {
+    background-color: lightgrey;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: black;
+    margin-top: 40px;
+}
